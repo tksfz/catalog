@@ -1,8 +1,8 @@
 image:
   # -- image repository
-  repository: tccr.io/truecharts/joplin-server
+  repository: joplin/server
   # -- image tag
-  tag: v2.5.1@sha256:a285ff0cf05f534efd28c6652925b57a9774ba41923d15536b873fbbdbabcd2b
+  tag: 2.6.9-beta
   # -- image pull policy
   pullPolicy: IfNotPresent
 
